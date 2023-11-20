@@ -13,3 +13,8 @@ Check to see if the firewall is configured for the web console
 ```
 
 Use the local browser to access the web consoel - https://localhost:9090
+
+To add remote servers:
+1. In the upper left corner click on the user@host.name.com drop down
+2. Click the Add new host button
+3. Fill in the host name and user name and click the Add button
